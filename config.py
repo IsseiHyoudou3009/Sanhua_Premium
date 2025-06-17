@@ -40,8 +40,8 @@ START_PIC = os.environ.get("START_PIC", "https://i.ibb.co/xtX2n5PY/x.jpg")
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://i.ibb.co/N6gmC0kj/x.jpg")
 
 #--------------------------------------------
-SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "shrinkearn.com")
-SHORTLINK_API = os.environ.get("SHORTLINK_API", "dff04a08dec1d8ae959c336c56d3474e449cbf14")
+SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "inshorturl.com")
+SHORTLINK_API = os.environ.get("SHORTLINK_API", "4ae5d37d82182214638296e06e95f1101c41468c")
 TUT_VID = os.environ.get("TUT_VID","hhttps://t.me/Premium_Oriana_Bot?start=Z2V0LTcwMTg0MjM2MDU0MzgtNzAxODQyMzYwNTQzOA")
 SHORT_MSG = "<b>⌯ Here is Your Download Link, Must Watch Tutorial Before Clicking On Download...</b>"
 
