@@ -42,7 +42,7 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/e292b12890b8b4b
 #--------------------------------------------
 SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "inshorturl.com")
 SHORTLINK_API = os.environ.get("SHORTLINK_API", "4ae5d37d82182214638296e06e95f1101c41468c")
-VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 20)) # Add time in seconds
+VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 300)) # Add time in seconds
 TUT_VID = os.environ.get("TUT_VID","https://t.me/Premium_Oriana_Bot?start=Z2V0LTcwMTg0MjM2MDU0MzgtNzAxODQyMzYwNTQzOA")
 
 #--------------------------------------------
@@ -89,20 +89,20 @@ USER_REPLY_TEXT = "<b>ɪᴅɪᴏᴛ!</b> ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ ᴍᴀ
 
 #==========================(BUY PREMIUM)====================#
 
-OWNER_TAG = os.environ.get("OWNER_TAG", "Letschatbro")
+OWNER_TAG = os.environ.get("OWNER_TAG", "Kazuto_XD")
 UPI_ID = os.environ.get("UPI_ID", "kirito@pnb")
 QR_PIC = os.environ.get("QR_PIC", "https://telegra.ph/file/3e83c69804826b3cba066-16cffa90cd682570da.jpg")
-SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/Letschatbro")
+SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/Kazuto_XD")
 #--------------------------------------------
 #Time and its price
 #7 Days
-PRICE1 = os.environ.get("PRICE1", "30 rs")
+PRICE1 = os.environ.get("PRICE1", "0 rs")
 #1 Month
-PRICE2 = os.environ.get("PRICE2", "70 rs")
+PRICE2 = os.environ.get("PRICE2", "60 rs")
 #3 Month
 PRICE3 = os.environ.get("PRICE3", "150 rs")
 #6 Month
-PRICE4 = os.environ.get("PRICE4", "280 rs")
+PRICE4 = os.environ.get("PRICE4", "290 rs")
 #1 Year
 PRICE5 = os.environ.get("PRICE5", "500 rs")
 
