@@ -221,7 +221,7 @@ async def start_command(client: Client, message: Message):
                 id=message.from_user.id
             ),
             reply_markup=reply_markup,
-            message_effect_id=5044134455711629726)  # 🔥
+            message_effect_id=5046509860389126442)  # 🔥
         
         return
 
